@@ -1,8 +1,8 @@
 # Makefile for Assamese-Bengali MT
 
 VERSION=0.1.0
-LANG1=as
-LANG2=bn
+LANG1=asm
+LANG2=ben
 PREFIX1=$(LANG1)-$(LANG2)
 PREFIX2=$(LANG2)-$(LANG1)
 
