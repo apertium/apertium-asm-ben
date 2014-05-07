@@ -6,13 +6,13 @@
 /Makefile.am -text
 /NEWS -text
 /README -text
-/aclocal.m4 -text
 /apertium-asm-ben.asm-ben.dix -text
 /apertium-asm-ben.asm-ben.t1x -text
 /apertium-asm-ben.asm.dix -text
 /apertium-asm-ben.ben-asm.t1x -text
 /apertium-asm-ben.ben.dix -text
 /asm-ben.prob -text svneol=unset#unset
+/autogen.sh -text
 /ben-asm.prob -text svneol=unset#unset
 /configure.ac -text
 /modes.xml -text
