@@ -1,0 +1,10 @@
+{
+    "asm-ben": {
+        "input": "asm-ben-input.txt",
+        "mode": "asm-ben"
+    },
+    "ben-asm": {
+        "input": "ben-asm-input.txt",
+        "mode": "ben-asm"
+    }
+}

@@ -85,3 +85,6 @@ install-data-local: install-modes
 	$(INSTALL_DATA) $(BASENAME).$(PREFIX2).t1x $(DESTDIR)$(apertium_as_bndir)
 
 CLEANFILES = -r $(TARGETS_COMMON)
+
+test: all
+	apertium-regtest test

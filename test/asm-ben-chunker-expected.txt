@@ -1,0 +1,10 @@
+[2_3lt0UzBu2B#0] ^হলুদ<adj>$
+[/2_3lt0UzBu2B]
+[7JZPdZZKJ3Ia#0] ^তৃষ্ণা<n><sg><m>$ে^*ক$া
+[/7JZPdZZKJ3Ia]
+[H9GtSUrBRYRB#0] ^ন্যায়<n><sg><m>/ন্যায়<n><sg><m>$
+[/H9GtSUrBRYRB]
+[qb7w5gZm3B3_#0] ^ঘট<vblex><pres><p2><sg>$া ^*হ$ে^*ওপক$
+[/qb7w5gZm3B3_]
+[wJqgQGiiY2pf#0] !^*ছ$া
+[/wJqgQGiiY2pf]
